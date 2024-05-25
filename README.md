@@ -1,4 +1,4 @@
-# Calculator in React Native [University Project]
+# Cafe Shop Restaurant  in React Native [University Project]
 
 
 ### Tech stack
@@ -26,32 +26,3 @@ $ npx expo start
 - Once you run the above command in the terminal/bash, you will see the following screen:
 ![alt text](image.png)
 - Once the project is running, you can either enter the Metro URL on the Expo Go on your mobile device (make sure your mobile device and your computer are in the same network) OR You can SCAN the QR code to open the project directly automatically in the Expo Go
-
-
-## App
-![alt text](image-1.png)
-<br>
-<br>
-<br>
-<br>
-![alt text](image-2.png)
-<br>
-<br>
-<br>
-<br>
-![alt text](image-4.png)
-<br>
-<br>
-<br>
-<br>
-![alt text](image-3.png)
-<br>
-<br>
-<br>
-<br>
-![alt text](image-5.png)
-<br>
-<br>
-<br>
-<br>
-![alt text](image-6.png)
