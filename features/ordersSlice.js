@@ -4,11 +4,6 @@ const initialState = {
     orders: Object.freeze({}),
 }
 
-const removeKey = (obj, keyRoRemove) => {
-    if (!obj.hasOwnProperty(keyRoRemove)) throw Error("key doesn't exsist in obj")
-    const { [keyRoRemove]: foo, ...objWithRestKeys } = obj;
-    return objWithRestKeys
-}
 
 export const ordersSlice = createSlice({
     name: 'orders',

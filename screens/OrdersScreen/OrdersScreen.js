@@ -46,12 +46,6 @@ const OrdersScreen = () => {
           ))}
         </ScrollView>
 
-        <View style={styles.orderTotalContainer}>
-          <View style={styles.orderTotalRow}>
-            <Text style={styles.orderTotalLabel}>Order Total</Text>
-            <Text style={styles.orderTotalAmount}>{basketTotal + 5.99} PLN</Text>
-          </View>
-        </View>
       </View>
     </SafeAreaView>
   );
