@@ -23,6 +23,5 @@ $ yarn install
 ```bash
 $ npx expo start
 ```
-- Once you run the above command in the terminal/bash, you will see the following screen:
-![alt text](image.png)
+
 - Once the project is running, you can either enter the Metro URL on the Expo Go on your mobile device (make sure your mobile device and your computer are in the same network) OR You can SCAN the QR code to open the project directly automatically in the Expo Go
